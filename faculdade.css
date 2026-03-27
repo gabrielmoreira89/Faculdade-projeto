@@ -197,6 +197,8 @@
     color: #ffffff;
     font-weight: bold;
     padding: 19px 55px;
+    display: inline-block;
+    text-decoration: none;
     margin-top: 35px;
     border-radius: 25px;
     border-radius: 15px;
